@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <div>
+  <div id="#app">
     <header>
       <div class="logo">Ralph Maron Eda</div>
       <div class="action">ABOUT</div>
